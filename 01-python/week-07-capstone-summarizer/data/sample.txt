@@ -1,0 +1,6 @@
+AI systems are built from data, code, and feedback loops.
+
+A good summary should capture:
+- the main point
+- key supporting details
+- any constraints or limitations

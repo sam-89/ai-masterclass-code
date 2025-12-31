@@ -1,0 +1,6 @@
+This is sample.txt
+
+It contains   extra spacing.
+And multiple lines.
+
+End.
